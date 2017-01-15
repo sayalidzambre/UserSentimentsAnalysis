@@ -1,2 +1,2 @@
 # UserSentimentsAnalysis
-Sentiment Analysis of users for Demonetisation
+Sentiment Analysis of users.
